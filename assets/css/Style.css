@@ -1,5 +1,5 @@
 :root {
-    --primary-color:#1c8591;
+    --primary-color:#1e97a5;
   }
   
   * {
@@ -9,7 +9,7 @@
     }
   
   body {
-      color: #1c8591;
+      color: #1c808b;
       font-family: Helvetica, Arial, sans-serif;
       background-color: rgb(229, 232, 238);
     }
